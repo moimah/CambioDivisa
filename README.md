@@ -1,0 +1,3 @@
+# CambioDivisa en JavaFX 🚀
+
+Aplicación en JavaFX que permita calcular los cambios entre distintas divisas: Euro, Dolar, Yen, Libra esterlin...
